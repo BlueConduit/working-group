@@ -1,0 +1,78 @@
+#+TITLE: BlueConduit Working Group Research Networks
+
+* Purpose
+
+It is the goal of the BlueConduit Experimental Working Group to explore research
+
+BlueConduit nurtures curiosity and research within the team. 
+Work linked here need not be directly related to current BC work. 
+It is the goal of the reading group to identify and experiment with emerging ML science, and this will serve as a launch-site to that end.
+The choice to include papers is based purely on the user-experience of this writer, and is not a reflection of the scope or depth of the fields discussed in the papers below.
+It is the hope that a more dynamic research model will be developed in the coming week.
+
+* Research Directions
+                        
+Susan Murphy
+    - [[https://rss.onlinelibrary.wiley.com/doi/full/10.1111/1467-9868.00389][Optimal dynamic treatment regimes]]
+    - [[https://www.tandfonline.com/doi/abs/10.1080/01621459.2000.10474219][On profile likelihood]]
+    - [[https://www.sciencedirect.com/science/article/abs/pii/S0749379707000517][The Multiphase Optimization Strategy (MOST) and the Sequential Multiple Assignment Randomized Trial (SMART): New Methods for More Potent eHealth Interventions]]
+
+Susan Athey
+    - [[https://www.pnas.org/content/113/27/7353.short][Recursive partitioning for heterogenous causal effects]]
+    - [[https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1468-0262.2006.00668.x][Identification and Inference in Nonlinear Difference-in-Differences Models]]
+    - [[https://www.tandfonline.com/doi/abs/10.1080/01621459.2017.1319839][ Estimation and Inference of Heterogeneous Treatment Effects using Random Forests]]
+    - [[https://rss.onlinelibrary.wiley.com/doi/full/10.1111/1467-9868.00389][Optimal dynamic treatment regimes]]
+
+Elias Bareinboim
+    - [[https://www.pnas.org/content/113/27/7345.short][Causal Inference and the Data Fusion Problem]]
+    - [[http://proceedings.mlr.press/v22/bareinboim12.html][Controlling Selection Bias in Causal Inferences]]
+    - [[https://www.degruyter.com/document/doi/10.1515/jci-2012-0004/html][A General Algorithm for Deciding Transportability of Experimental Results]]
+    - [[https://proceedings.neurips.cc/paper/2018/file/ff1418e8cc993fe8abcfe3ce2003e5c5-Paper.pdf][Equality of Opportunity in Classification: A Causal Approach]]
+    - [[https://www.pnas.org/content/113/27/7345.short][Causal Inference and the Data-fusion Problem]]
+
+Nathan Kallus
+    - [[https://www.jmlr.org/papers/volume21/19-827/19-827.pdf][Double Reinforcement Learning for Efficient Off-policy Evaluation in Markov Decision Processes]]
+    - [[http://proceedings.mlr.press/v84/kallus18a.html][Policy Evaluation and Optimization with Continuous Treatments]]
+    - [[http://proceedings.mlr.press/v80/kallus18a.html][Residual Unfairness in Machine Learning from Predjudiced Data]]
+    - [[https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2018.3253][From Predictive to Perscriptive Analytics]]
+    - [[https://link.springer.com/article/10.1007/s10107-017-1125-8][Data-driven robust optimization]]
+    - [[https://arxiv.org/abs/1805.08593][Confounding-Robust Policy Improvement]]
+
+David Sontag
+    - [[http://proceedings.mlr.press/v70/shalit17a.html][Estimating individual treatment effect: generalization bounds and algorithms]]
+    - [[https://ojs.aaai.org/index.php/AAAI/article/view/10779][Structured Inference Networks for Nonlinear State Space Models]]
+    - [[https://www.nature.com/articles/s41598-018-24271-9][Recurrent Neural Networks for Multivariate Time Series with Missing Values]]
+
+Kat Heller
+    - [[https://dl.acm.org/doi/abs/10.1145/1102351.1102389][Bayesian hierarchical clustering]]
+    - [[https://arxiv.org/abs/2011.03395][Underspecification Presents Challenges for Credibility in Modern Machine Learning]]
+    - [[https://academiccommons.columbia.edu/doi/10.7916/D85M6CFF][One Class Support Vector Machines for Detecting Anomalous Windows Registry Accesses]]
+
+Emre Kiciman
+    - [[https://www.frontiersin.org/articles/10.3389/fdata.2019.00013/full][Social Data: Biases, Methodological Pitfalls, and Ethical Boundaries]]
+    - [[https://dl.acm.org/doi/abs/10.1145/3437963.3441722][Causal Transfer Random Forest: Combining Logged Data and Randomized Experiments for Robust Prediction]]
+    - [[https://arxiv.org/abs/2011.04216][DoWhy: An End-to-End Library for Causal Inference]]
+
+Suchi Saria
+    - [[https://www.nature.com/articles/s41591-019-0548-6][Do no harm: a roadmap for responsible machine learning for health care]]
+    - [[https://www.science.org/doi/abs/10.1126/scitranslmed.3001304][Integration of Early Physiological Responses Predicts Later Illness Severity in Preterm Infants]]
+    - [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3900132/][Developing Predictive Models Using Electronic Medical Records: Challenges and Pitfalls]]
+    - [[https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1002721][Better medicine through machine learning: What's real and what's artificial?]]
+    - [[https://www.healthaffairs.org/doi/full/10.1377/hlthaff.2014.0041][Big Data In Health Care: Using Analytics To Identify And Manage High-Risk And High-Cost Patients]]
+
+Emma Pierson
+    - [[https://arxiv.org/abs/1712.09124][Demographics and discussion influence views on algorithmic fairness]]
+    - [[https://dl.acm.org/doi/abs/10.1145/3178876.3186052][Modeling Individual Cyclic Variation in Human Behavior]]
+    - [[https://www.nature.com/articles/s41591-020-01192-7][An algorithmic approach to reducing unexplained pain disparities in underserved populations]]
+    - [[]]
+
+Irene Chen
+    - [[https://arxiv.org/abs/1805.12002][Why is my classifier discriminatory?]]
+    - [[https://www.annualreviews.org/doi/abs/10.1146/annurev-biodatasci-092820-114757][Ethical Machine Learning in Healthcare]]
+
+Isaac Slavitt (IACS Fellow)
+    - [[https://arxiv.org/abs/2201.09372][Prioritizing municipal lead mitigation projects as a relaxed knapsack optimization: a method and case study]]
+
+Ian Ayres
+    - [[https://ianayres.yale.edu/sites/default/files/files/Three%20Tests%20for%20Measuring%20Unjustified(1).pdf][Three Tests for Measuring Unjustified Disparate Impacts in Organ Transplantation: The Problem of" Included Variable" Bias]]
+    
