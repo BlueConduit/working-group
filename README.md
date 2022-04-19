@@ -1,4 +1,4 @@
-# TITLE: [BlueConduit](https://blueconduit.com/) Experimental Working Group
+# [BlueConduit](https://blueconduit.com/) Experimental Working Group
 
 ### Info
 | :---: | :---: |
