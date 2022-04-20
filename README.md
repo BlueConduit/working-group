@@ -16,10 +16,14 @@ A paper will be presented and discussed for the first 30 minutes of this session
 
 ##### Suggested format for papers (30 minutes)
     1. Suggested materials and structure document will be supplied one week in advance.
-    2. Structure(s):
+    2. Formats(s):
         A. Assigned paper(s) 
         B. Read-along as a group
         C. Participant-selected paper
+    3. Read quietly for 15-20 minutes
+    4. Give the facillitator a 'silent-cue' to let them know you're done: turn video back on, a private message, etc.
+    5. Make observational notes for 3 minutes
+    6. Discuss as a group, pulling out any action items as they come up
 Though participation is key, it can look different from person to person. Try to read as much as you can, focusing on the abstract and methods. The goal here is to make connections and learn new things related to our work at BlueConduit.
 
 ##### Suggested format for books (30 minutes)
