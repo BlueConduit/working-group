@@ -4,7 +4,7 @@
 
 It is the goal of the BlueConduit Experimental Working Group to explore research related to the communities with whom we cocreate in order to establish and reward ethical data science and engineering practices.
 
-Some of the texts we work with are shorter [academic papers](~/external-publications.md), some of the texts are books.
+Some of the texts we work with are shorter [academic papers](external-publications.md), some of the texts are books.
 
 ### Texts Past and Present
 
