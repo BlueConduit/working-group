@@ -11,9 +11,9 @@ It is the hope of the writer that a more dynamic research cache will be develope
 ### Research Directions
                         
 Susan Murphy
-    - [[https://rss.onlinelibrary.wiley.com/doi/full/10.1111/1467-9868.00389][Optimal dynamic treatment regimes]]
-    - [[https://www.tandfonline.com/doi/abs/10.1080/01621459.2000.10474219][On profile likelihood]]
-    - [[https://www.sciencedirect.com/science/article/abs/pii/S0749379707000517][The Multiphase Optimization Strategy (MOST) and the Sequential Multiple Assignment Randomized Trial (SMART): New Methods for More Potent eHealth Interventions]]
+    - [Optimal dynamic treatment regimes](https://rss.onlinelibrary.wiley.com/doi/full/10.1111/1467-9868.00389)
+    - [On profile likelihood](https://www.tandfonline.com/doi/abs/10.1080/01621459.2000.10474219)
+    - [The Multiphase Optimization Strategy (MOST) and the Sequential Multiple Assignment Randomized Trial (SMART): New Methods for More Potent eHealth Interventions](https://www.sciencedirect.com/science/article/abs/pii/S0749379707000517)
 
 Susan Athey
     - [Recursive partitioning for heterogenous causal effects](https://www.pnas.org/content/113/27/7353.short)
