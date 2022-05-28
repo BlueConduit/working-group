@@ -32,7 +32,7 @@ Though participation is key, it can look different from person to person. Try to
     3. Spend the remaining 25 minutes of the session in discussion about the text and ideas.
 
 ## Research source
-Suggested papers will be cached [here](file:working-group/publications.org). 
+Suggested papers will be cached [here](file:working-group/docs/../../docs/external-publications.md). Material can be tracked on [this calendar](file:working-group/docs/../../docs/texts.md). 
 
 ## Rights and Responsibilities of the Readers
 - The reader is responsible for offering critique aligned with BlueConduit's [core values](https://blueconduit.com/the-company/).
